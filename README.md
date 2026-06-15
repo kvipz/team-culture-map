@@ -4,6 +4,8 @@ Interactive sliders for mapping how your org or team actually operates today, ac
 
 Each slider has 10 positions, a guiding question, and a description of what that position typically means in practice. Values are saved automatically in the browser via `localStorage`.
 
+Framework from ["The Staff Engineer's Path"](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) by Tanya Reilly.
+
 Live at: https://vip-in-the-cloud.dev/team-culture-map/
 
 Static site served from `docs/` via GitHub Pages.
